@@ -143,10 +143,22 @@
     <ClCompile Include="Q3-5.cpp" />
     <ClCompile Include="Q3-6.cpp" />
     <ClCompile Include="Q3-7.cpp" />
+    <ClCompile Include="Q4-10.cpp" />
+    <ClCompile Include="Q4-2.cpp" />
+    <ClCompile Include="Q4-3.cpp" />
+    <ClCompile Include="Q4-4.cpp" />
+    <ClCompile Include="Q4-5.cpp" />
+    <ClCompile Include="Q4-6.cpp" />
+    <ClCompile Include="Q4-7.cpp" />
+    <ClCompile Include="Q4-8.cpp" />
+    <ClCompile Include="Q4-9.cpp" />
+    <ClCompile Include="Q4-ex.cpp" />
+    <ClCompile Include="Q4_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h" />
     <ClInclude Include="Q3.h" />
+    <ClInclude Include="Q4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
