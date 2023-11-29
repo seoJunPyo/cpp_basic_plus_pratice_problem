@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Q6">
       <UniqueIdentifier>{390aa48b-00c8-44d6-87da-c2b46aee8303}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q7">
+      <UniqueIdentifier>{220fe900-ba1d-480f-bb36-197c0ed09862}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -168,6 +171,39 @@
     <ClCompile Include="Q6-9.cpp">
       <Filter>소스 파일\Q6</Filter>
     </ClCompile>
+    <ClCompile Include="Q7-1.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-ex.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-2.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-3.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-4.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-5.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-6.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-7.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-8.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-9.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-10.cpp">
+      <Filter>소스 파일\Q7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -183,6 +219,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Q6.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q7.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
