@@ -22,5 +22,7 @@ int Q4_8()
 	cout << "피자의 지름 : " << pizza_company->diameter << endl;
 	cout << "피자의 중량 : " << pizza_company->weight << endl;
 
+	delete pizza_company;
+
 	return 0;
 }

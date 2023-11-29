@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Q4">
       <UniqueIdentifier>{696b1e37-fc10-4179-994c-376e9ddf4ffa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q5">
+      <UniqueIdentifier>{fdf32106-bf4e-4b8e-83a4-146b018097d1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -105,6 +108,36 @@
     <ClCompile Include="Q4-10.cpp">
       <Filter>소스 파일\Q4</Filter>
     </ClCompile>
+    <ClCompile Include="Q5-1.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-2.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-3.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-4.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-5.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-6.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-7.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-8.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-9.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-10.cpp">
+      <Filter>소스 파일\Q5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -114,6 +147,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Q4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q5.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
