@@ -3,7 +3,7 @@
 struct donation
 {
 	string name;
-	double amout;
+	double amout = 0;
 };
 
 int Q6_6()
@@ -45,6 +45,8 @@ int Q6_6()
 				cout << donation_list[i].name << " - " << donation_list[i].amout << endl;
 		}
 	}
+
+	delete[] donation_list;
 
 	return 0;
 }
