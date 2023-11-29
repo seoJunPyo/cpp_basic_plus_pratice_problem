@@ -24,5 +24,7 @@ int Q6_8()
 	
 	cout << file_name << " 파일 안에 문자는 총 " << count << "개가 있습니다." << endl;
 
+	inFile.close();
+
 	return 0;
 }

@@ -3,7 +3,7 @@
 struct donation
 {
 	string name;
-	double amout;
+	double amout = 0;
 };
 
 int Q6_9()
@@ -56,6 +56,7 @@ int Q6_9()
 	}
 
 	delete[] donation_list;
+	inFile.close();
 
 	return 0;
 }
