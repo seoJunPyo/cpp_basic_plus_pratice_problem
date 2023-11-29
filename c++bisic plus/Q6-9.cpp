@@ -55,5 +55,7 @@ int Q6_9()
 		}
 	}
 
+	delete[] donation_list;
+
 	return 0;
 }
