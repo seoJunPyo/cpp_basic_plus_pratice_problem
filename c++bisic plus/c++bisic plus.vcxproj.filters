@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Q9">
       <UniqueIdentifier>{8a1d2dcc-9d8b-4b72-b009-0860c5d0c5ff}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q10">
+      <UniqueIdentifier>{339a7680-ce88-473f-9b5c-96bd2fdc504d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -252,6 +255,57 @@
     <ClCompile Include="Q9-4.cpp">
       <Filter>소스 파일\Q9</Filter>
     </ClCompile>
+    <ClCompile Include="account.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-1.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-2.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="golf_class.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-3.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="sales_class.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-4.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-5.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="move.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10_6.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="plorg.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="plorg.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-7.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-8.cpp">
+      <Filter>소스 파일\Q10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -282,6 +336,30 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="sales.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q10.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="account.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="person.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="golf_class.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="sales_class.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="move.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

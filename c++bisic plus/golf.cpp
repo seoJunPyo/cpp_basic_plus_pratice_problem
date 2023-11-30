@@ -1,4 +1,5 @@
 #include "Q9.h"
+#include <cstring>
 
 extern const int Len;
 
@@ -14,6 +15,8 @@ void setgolf(golf& g)
 	cin.getline(g.full_name, Len);
 	cout << "ÇÚµðÄ¸ ÀÔ·Â : ";
 	cin >> g.handicap;
+	while (cin.get() != '\n')
+		continue;
 }
 
 void handicap(golf& g, int hc)
