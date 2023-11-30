@@ -31,6 +31,12 @@
     <Filter Include="소스 파일\Q7">
       <UniqueIdentifier>{220fe900-ba1d-480f-bb36-197c0ed09862}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q8">
+      <UniqueIdentifier>{cf7b6330-3f66-4561-b074-41705c99f1ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Q9">
+      <UniqueIdentifier>{8a1d2dcc-9d8b-4b72-b009-0860c5d0c5ff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -204,6 +210,48 @@
     <ClCompile Include="Q7-10.cpp">
       <Filter>소스 파일\Q7</Filter>
     </ClCompile>
+    <ClCompile Include="Q8-ex.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-1.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-2.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-3.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-4.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-5.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-6.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-7.cpp">
+      <Filter>소스 파일\Q8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9-1.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
+    <ClCompile Include="golf.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9-2.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9-3.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
+    <ClCompile Include="sales.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
+    <ClCompile Include="Q9-4.cpp">
+      <Filter>소스 파일\Q9</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -222,6 +270,18 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Q7.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q8.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q9.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="golf.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="sales.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

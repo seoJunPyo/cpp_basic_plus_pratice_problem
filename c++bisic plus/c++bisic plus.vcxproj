@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="golf.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Q2-2.cpp" />
     <ClCompile Include="Q2-3.cpp" />
@@ -184,14 +185,31 @@
     <ClCompile Include="Q7-8.cpp" />
     <ClCompile Include="Q7-9.cpp" />
     <ClCompile Include="Q7-ex.cpp" />
+    <ClCompile Include="Q8-1.cpp" />
+    <ClCompile Include="Q8-2.cpp" />
+    <ClCompile Include="Q8-3.cpp" />
+    <ClCompile Include="Q8-4.cpp" />
+    <ClCompile Include="Q8-5.cpp" />
+    <ClCompile Include="Q8-6.cpp" />
+    <ClCompile Include="Q8-7.cpp" />
+    <ClCompile Include="Q8-ex.cpp" />
+    <ClCompile Include="Q9-1.cpp" />
+    <ClCompile Include="Q9-2.cpp" />
+    <ClCompile Include="Q9-3.cpp" />
+    <ClCompile Include="Q9-4.cpp" />
+    <ClCompile Include="sales.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="golf.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="Q3.h" />
     <ClInclude Include="Q4.h" />
     <ClInclude Include="Q5.h" />
     <ClInclude Include="Q6.h" />
     <ClInclude Include="Q7.h" />
+    <ClInclude Include="Q8.h" />
+    <ClInclude Include="Q9.h" />
+    <ClInclude Include="sales.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
