@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Q10">
       <UniqueIdentifier>{339a7680-ce88-473f-9b5c-96bd2fdc504d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q11">
+      <UniqueIdentifier>{0193d95d-ac17-4789-ad5b-3e3959e32258}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -306,6 +309,39 @@
     <ClCompile Include="Q10-8.cpp">
       <Filter>소스 파일\Q10</Filter>
     </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-1.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-2.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-3.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="mytime.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-4.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="stonewt.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-5.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q11-6.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex0.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
+    <ClCompile Include="Q110-7.cpp">
+      <Filter>소스 파일\Q11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -360,6 +396,21 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="List.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q11.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="mytime.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stonewt.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="complex0.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

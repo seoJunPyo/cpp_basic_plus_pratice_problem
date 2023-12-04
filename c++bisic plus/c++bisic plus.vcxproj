@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Complex0.cpp" />
     <ClCompile Include="List.cpp" />
+    <ClCompile Include="mytime.cpp" />
     <ClCompile Include="plorg.cpp" />
     <ClCompile Include="plorg.h" />
     <ClCompile Include="Q10-7.cpp" />
@@ -144,6 +146,13 @@
     <ClCompile Include="Q10-3.cpp" />
     <ClCompile Include="Q10-4.cpp" />
     <ClCompile Include="Q10-5.cpp" />
+    <ClCompile Include="Q11-1.cpp" />
+    <ClCompile Include="Q11-2.cpp" />
+    <ClCompile Include="Q11-3.cpp" />
+    <ClCompile Include="Q11-4.cpp" />
+    <ClCompile Include="Q11-5.cpp" />
+    <ClCompile Include="Q11-6.cpp" />
+    <ClCompile Include="Q110-7.cpp" />
     <ClCompile Include="Q2-2.cpp" />
     <ClCompile Include="Q2-3.cpp" />
     <ClCompile Include="Q2-4.cpp" />
@@ -215,16 +224,21 @@
     <ClCompile Include="sales.cpp" />
     <ClCompile Include="sales_class.cpp" />
     <ClCompile Include="stack.cpp" />
+    <ClCompile Include="stonewt.cpp" />
+    <ClCompile Include="vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="account.h" />
+    <ClInclude Include="complex0.h" />
     <ClInclude Include="golf.h" />
     <ClInclude Include="golf_class.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="move.h" />
+    <ClInclude Include="mytime.h" />
     <ClInclude Include="person.h" />
     <ClInclude Include="Q10.h" />
+    <ClInclude Include="Q11.h" />
     <ClInclude Include="Q3.h" />
     <ClInclude Include="Q4.h" />
     <ClInclude Include="Q5.h" />
@@ -235,6 +249,8 @@
     <ClInclude Include="sales.h" />
     <ClInclude Include="sales_class.h" />
     <ClInclude Include="stack.h" />
+    <ClInclude Include="stonewt.h" />
+    <ClInclude Include="vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
