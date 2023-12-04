@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\Q11">
       <UniqueIdentifier>{0193d95d-ac17-4789-ad5b-3e3959e32258}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q12">
+      <UniqueIdentifier>{8593dfa9-d33e-4e7a-9136-c3e32eaa9812}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q2.h">
@@ -342,6 +345,39 @@
     <ClCompile Include="Q11-7.cpp">
       <Filter>소스 파일\Q11</Filter>
     </ClCompile>
+    <ClCompile Include="Q12-1.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="cow.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="mystring.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12-2.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Stock.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12-3.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="stack2.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12-4.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12-5.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
+    <ClCompile Include="Q12-6.cpp">
+      <Filter>소스 파일\Q12</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -411,6 +447,24 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="complex0.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q12.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="mystring.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stock.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stack2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
