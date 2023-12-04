@@ -339,7 +339,7 @@
     <ClCompile Include="Complex0.cpp">
       <Filter>소스 파일\Q11</Filter>
     </ClCompile>
-    <ClCompile Include="Q110-7.cpp">
+    <ClCompile Include="Q11-7.cpp">
       <Filter>소스 파일\Q11</Filter>
     </ClCompile>
   </ItemGroup>
