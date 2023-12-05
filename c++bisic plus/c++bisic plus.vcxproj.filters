@@ -46,11 +46,14 @@
     <Filter Include="소스 파일\Q12">
       <UniqueIdentifier>{8593dfa9-d33e-4e7a-9136-c3e32eaa9812}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Q13">
+      <UniqueIdentifier>{07c615dc-badd-49da-8ddd-6df4c768b948}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Q">
+      <UniqueIdentifier>{d1a3777e-d8a1-4a1c-8a6b-fd48fda95e1f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q2.h">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -378,39 +381,45 @@
     <ClCompile Include="Q12-6.cpp">
       <Filter>소스 파일\Q12</Filter>
     </ClCompile>
+    <ClCompile Include="Cd.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13-1.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClCompile>
+    <ClCompile Include="Cd2.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13-2.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="dma.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13-3.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="port.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13-4.cpp">
+      <Filter>소스 파일\Q13</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q3.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q4.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q5.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q6.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q7.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q8.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q9.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="golf.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="sales.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q10.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="account.h">
@@ -437,9 +446,6 @@
     <ClInclude Include="vector.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Q11.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="mytime.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
@@ -447,9 +453,6 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="complex0.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Q12.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="cow.h">
@@ -465,6 +468,48 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="queue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cd.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Q3.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q4.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q5.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q6.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q7.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q8.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q9.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q10.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q11.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Q12.h">
+      <Filter>헤더 파일\Q</Filter>
+    </ClInclude>
+    <ClInclude Include="Cd2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="dma.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="port.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
