@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="abstr_emp.cpp" />
+    <ClCompile Include="person_der.cpp" />
+    <ClCompile Include="Q14-2.cpp" />
     <ClCompile Include="Cd.cpp" />
     <ClCompile Include="Cd2.cpp" />
     <ClCompile Include="Complex0.cpp" />
@@ -170,6 +173,10 @@
     <ClCompile Include="Q13-3.cpp" />
     <ClCompile Include="Q13-4.cpp" />
     <ClCompile Include="Q13.h" />
+    <ClCompile Include="Q14-1.cpp" />
+    <ClCompile Include="Q14-3.cpp" />
+    <ClCompile Include="Q14-4.cpp" />
+    <ClCompile Include="Q14-5.cpp" />
     <ClCompile Include="Q2-2.cpp" />
     <ClCompile Include="Q2-3.cpp" />
     <ClCompile Include="Q2-4.cpp" />
@@ -246,8 +253,12 @@
     <ClCompile Include="Stock.cpp" />
     <ClCompile Include="stonewt.cpp" />
     <ClCompile Include="vector.cpp" />
+    <ClCompile Include="wine.cpp" />
+    <ClCompile Include="wine2.cpp" />
+    <ClCompile Include="worker.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="abstr_emp.h" />
     <ClInclude Include="account.h" />
     <ClInclude Include="cd.h" />
     <ClInclude Include="Cd2.h" />
@@ -261,11 +272,14 @@
     <ClInclude Include="move.h" />
     <ClInclude Include="mystring.h" />
     <ClInclude Include="mytime.h" />
+    <ClInclude Include="pair.h" />
     <ClInclude Include="person.h" />
+    <ClInclude Include="person_der.h" />
     <ClInclude Include="port.h" />
     <ClInclude Include="Q10.h" />
     <ClInclude Include="Q11.h" />
     <ClInclude Include="Q12.h" />
+    <ClInclude Include="Q14.h" />
     <ClInclude Include="Q3.h" />
     <ClInclude Include="Q4.h" />
     <ClInclude Include="Q5.h" />
@@ -274,6 +288,7 @@
     <ClInclude Include="Q8.h" />
     <ClInclude Include="Q9.h" />
     <ClInclude Include="queue.h" />
+    <ClInclude Include="queuetp.h" />
     <ClInclude Include="sales.h" />
     <ClInclude Include="sales_class.h" />
     <ClInclude Include="stack.h" />
@@ -281,6 +296,9 @@
     <ClInclude Include="stock.h" />
     <ClInclude Include="stonewt.h" />
     <ClInclude Include="vector.h" />
+    <ClInclude Include="wine.h" />
+    <ClInclude Include="wine2.h" />
+    <ClInclude Include="worker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
